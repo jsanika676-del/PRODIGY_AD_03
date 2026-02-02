@@ -1,4 +1,8 @@
+Overview of Stopwatch
+A Stopwatch is a time-measurement tool used to accurately record the amount of time that passes between a start and stop action. It is commonly used in activities such as sports, experiments, workouts, and productivity tracking.
+
 📌 Features
+
 ▶️ Start the stopwatch
 ⏸️ Pause the stopwatch
 🔁 Resume timing
